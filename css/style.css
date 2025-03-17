@@ -404,7 +404,7 @@ body::after {
   overscroll-behavior: none
 }
 [data-fp] {
-  min-height: 100svh
+  min-height: 120svh
 }
 .fp-init [data-fp] {
   z-index: 1;
