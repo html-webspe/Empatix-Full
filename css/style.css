@@ -501,7 +501,7 @@ body::after {
   flex-direction: column;
   justify-content: center;
   overflow: hidden;
-  padding-top: 5rem
+  padding-top: 7.5rem
 }
 .title {
   font-family: var(--font-family);
