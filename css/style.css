@@ -500,7 +500,8 @@ body::after {
   display: flex;
   flex-direction: column;
   justify-content: center;
-  overflow: hidden
+  overflow: hidden;
+  padding-top: 5rem
 }
 .title {
   font-family: var(--font-family);
@@ -515,7 +516,7 @@ body::after {
   font-size: var(--font-size-sm);
   color: #797979;
   text-transform: uppercase;
-  margin-bottom: 5px
+  margin-bottom: .3125rem
 }
 .page-decor {
   position: absolute;
@@ -2047,7 +2048,7 @@ body::after {
     transform: rotate(45deg)
   }
   .page-decor {
-    max-height: 200px
+    max-height: 12.5rem
   }
   .header .logo {
     order: 2
